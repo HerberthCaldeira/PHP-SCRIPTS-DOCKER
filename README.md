@@ -1,7 +1,6 @@
-
 # PHP - DOCKER
 
-Running php script with docker
+Running php script with docker.
 
 
 To build docker image:
